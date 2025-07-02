@@ -1,0 +1,1 @@
+print("Welcome to Katsu Curry Kingdom!")
